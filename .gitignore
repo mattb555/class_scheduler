@@ -19,6 +19,9 @@
 /public
 /yarn-error.log
 /vendor/bundle
+/node_modules
+/node_modules/*
+/.vscode
 
 .byebug_history
 /public/packs-test
